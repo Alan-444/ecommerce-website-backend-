@@ -1,5 +1,5 @@
 import React from "react";
-const FolderIcon = () => {
+const ChatIcon = () => {
   return (
     <svg
       width='24'
@@ -10,10 +10,10 @@ const FolderIcon = () => {
       <path
         fill-rule='evenodd'
         clip-rule='evenodd'
-        d='M9.5 2L12 5H20C21.1046 5 22 5.89543 22 7V19C22 20.1046 21.1046 21 20 21H4C2.89543 21 2 20.1046 2 19V4C2 2.89543 2.89543 2 4 2H9.5ZM11.0632 7L8.563 4H4V19H20V7H11.0632Z'
+        d='M19 3C20.1046 3 21 3.89543 21 5V17C21 18.1046 20.1046 19 19 19H9L3 22L3 5C3 3.89543 3.89543 3 5 3H19ZM19 5H5V18.468L8.44603 17H19V5ZM11 12V14H7V12H11ZM17 8V10H7V8H17Z'
         fill='currentColor'
       />
     </svg>
   );
 };
-export default FolderIcon;
+export default ChatIcon;

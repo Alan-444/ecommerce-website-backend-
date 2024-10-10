@@ -8,7 +8,7 @@ const RegistrationComplete = () => {
       <div className={styles.create_account}>
         <div className={styles.ca_wrapper}>
           <div className={styles.caw_completeimage}>
-            <img src={image} alt="complete " />
+            <img src={image} alt="complete image" />
           </div>
           <div className={styles.caw_title}>
             <h2>Almost There!</h2>
