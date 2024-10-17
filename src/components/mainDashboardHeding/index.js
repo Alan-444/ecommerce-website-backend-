@@ -4,42 +4,49 @@ import GlobalSettingIcon from "../../icons/globlSetting";
 import { Link } from "react-router-dom";
 import PlusIcon from "../../icons/plus";
 const MainDashboardHeading = ({
-  title,
-  icon = true,
-  title1,
-  outlineBtn,
-  fillBtn,
+	title,
+	icon = true,
+	icon2 = true,
+	title1,
+	outlineBtn,
+	fillBtn,
+	fillTitle,
 }) => {
-  return (
-    <>
-      <div className={styles.dw_mainTitle}>
-        <h4>{title}</h4>
-        {outlineBtn && (
-          <div className={styles.dwmt_manag}>
-            <Link>
-              {icon ? (
-                <span>
-                  <GlobalSettingIcon />
-                </span>
-              ) : (
-                ""
-              )}
-              <span>{title1}</span>
-            </Link>
-          </div>
-        )}
-        {fillBtn && (
-          <div className={styles.dwmt_manag2}>
-            <Link>
-              <span>
-                <PlusIcon />
-              </span>
-              <span>Add Order</span>
-            </Link>
-          </div>
-        )}
-      </div>
-    </>
-  );
+	return (
+		<>
+			<div className={styles.dw_mainTitle}>
+				<h4>{title}</h4>
+				{outlineBtn && (
+					<div className={styles.dwmt_manag}>
+						<Link>
+							{icon ? (
+								<span>
+									<GlobalSettingIcon />
+								</span>
+							) : (
+								""
+							)}
+
+							<span>{title1}</span>
+						</Link>
+					</div>
+				)}
+				{fillBtn && (
+					<div className={styles.dwmt_manag2}>
+						<Link>
+							{icon2 ? (
+								<span>
+									<PlusIcon />
+								</span>
+							) : (
+								""
+							)}
+							<span>{fillTitle}</span>
+						</Link>
+					</div>
+				)}
+			</div>
+		</>
+	);
 };
 export default MainDashboardHeading;

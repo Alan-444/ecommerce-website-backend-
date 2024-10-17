@@ -1,0 +1,63 @@
+.reports_main {
+	padding: 30px 40px 40px 40px;
+}
+.search_input {
+	flex: 1;
+}
+.card_wrapper {
+	display: flex;
+	gap: 30px;
+	padding-bottom: 31px;
+}
+.card_box {
+	width: 100%;
+	padding: 28px;
+	border-radius: 6px;
+	box-shadow: 0 1px 4px #15223214;
+}
+.card_img {
+	text-align: center;
+	padding-bottom: 43px;
+}
+.card_title {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 28px;
+	color: #131523;
+	padding-bottom: 24px;
+}
+.card_info {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #131523;
+	padding-bottom: 12px;
+}
+.card_more_info a {
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #1e5eff;
+}
+.rectangle {
+	border: 1px solid #e6e9f4;
+	margin-bottom: 24px;
+}
+.reports_bottom {
+	text-align: center;
+}
+.rb_title {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 36px;
+	color: #131523;
+	padding-bottom: 8px;
+}
+.rb_description {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #5a607f;
+	padding-bottom: 28px;
+}

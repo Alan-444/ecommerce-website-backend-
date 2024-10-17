@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "Img": "https://s3-alpha-sig.figma.com/img/a8cd/a592/c8d722f12130d517f0f08a37bd25e5c6?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NWnzdxLB3fw0NjfV2QscLJCtxLB9bdw-gHWtokLXGDjKridJJ74TiQ4CGQ~T3gF--z0C34wsFuWaN3F6KV6KOEwzUuNcJybAYyqrZvlSj3CGIhd9wDsq~QqM0X~XogHae9DNs8Orc~n7RUARqlFwHO9VN~lE1RMqPK1LY4eza7mNc6X-PrIPARKVn0dNBqlh2ihKyJEsHMk7cWMJ62ijhafP4xbqkWJGn6xPSlsYawtvdfKyitFjm1f5VI2D9joRD1rC09lBeLZPXimGOH5TFMAuZORcZoLIyiEtFSkyjU-6z~Y2T~LfMPcCi98fKjFx6AGhMEpTKjxd5fvppTF~gw__",
+        "title": "Men Clothes",
+        "count": "24 items"
+    },
+    {
+        "id": 2,
+        "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcmXhfRhWJ4qpjt6g4sSdIcAuboJdmWi9V8w&s",
+        "title": "Women Clothes",
+        "count": "12 items"
+    },
+    {
+        "id": 3,
+        "Img": "https://s3-alpha-sig.figma.com/img/3d0e/677d/23bc7c96e3da2971d80282bb99e08f4c?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=e~casBACJuRMefUPP5Sy4CEBO1HSrARdU9ypn14Z3n7Zcfup4P3jmFoPHLm8id4eGKT-2BKeE-Z38CNmYslK1QEIC2SjMAvFiczSbNKSxbxQcMgmZIOJm-YRisnp0DuG-pnILOQCg2Dif7ceOKc2qxrAuX0jsz8dKV6U5mv3Cw9XClz87-jbdctdBUh-5Cg8LAeoYBQ2SF6~iJJFPfXyuEIFxrp3bEhOEVrWrDWyrgkg8HyxpInk7qLg5HgoMAzsrCPCbwMB~lL9pirAvTj-4oEXTUeZgGS2qJzRUpBjSXwEwrluxxs~qGstr7d18zjsWmsgPCvyKmsv5UWiCEtpmg__",
+        "title": "Accessories",
+        "count": "43 items"
+    },
+    {
+        "id": 4,
+        "Img": "https://s3-alpha-sig.figma.com/img/67f6/843a/52ff6aeab34eaee7e92f21116b6b9b22?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UyldKZprwKeRnHoI7H4mR8uG03QzATNijeDhBgQ8smHXqZ8lLNa2qSnqvuFcalgcybJYLeE95LK3jBeWPNNMWoojIHEVx1iZN-lFmUGx6v06yFsH9AtErSQ-wkkIthUOX8CG2R7sLBfRnm2f6togDtmvskZM-7JmJXdVsNT68HoOTPGM9MnengiW5qpkN4pWh3t6SgsEZ48PW5c5T4N~lGUxcEFXNwPHqPr4tilNShJWmDwESkUXbUiBIciY2KEp-3954sJCXgmpCdgvBTRpuFV-6Xeo7Bc17r~FDz7n606RGXf~gzX1XbMDX~HYtN-NRlfhPFuTju482IxgiXlUHg__",
+        "title": "Cotton Clothes",
+        "count": "31 items"
+    },
+    {
+        "id": 5,
+        "Img": "https://s3-alpha-sig.figma.com/img/c16f/e23d/390e8d51ee3312fc3400b8e982e66cfe?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Il9nkUrejkdvizXe2k~sU6CV~AZiHc4aAmIfrsYj3NtLUQQ3aVCAbFFEB-x-YrvjuySw6~uDjL6PiPqXM6gxp4xS~rKnbJfeq9hEzuTbd~-YKdY0Vdu4wkFInZFkbQeY2xbBbQYXVJQ4fFVlYoanWw0iNj9JRsuYSCrmj~erd0jXBxjmqcxIiu~FW6bDNty4-Gz0gxTAa3wShGz2f-dSIz205YKhi-1swD0Dw9mAPxaemzVK3gEy9gTSI0xBMGIkBI~MsrxQ-DbwQemAelJdciEknK4qhdlz1-wO49LoA6IAgKMyTjfJRc-ZymEfmL~DDoAPNonUmX9FvR2jCoLclw__",
+        "title": "Summer Clothes",
+        "count": "26 items"
+    },
+    {
+        "id": 6,
+        "Img": "https://s3-alpha-sig.figma.com/img/d90e/2470/e9322d58835796aa1874c7686baa7258?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O1rKTBBacun4FkLGp3EOAveH1X0JthjJ2Fs-mS0jtTgDZECaq56t8u4czYl4oCqETnR2Af71HS5lUq7U9Fu9GUia4B-N9yBFGp821tggo2qSBTMQyM8hZnWWGQSSpR8KedmxHwVoCDFRJlfBlcsMJ2nWEhAT-7l0uNAaFHP1WuNVV6znj0lfD6TYtOlAIie9Fm6uCgkRG4ofXlTz9IWloxO1mNlkiPju~ZXa4q04JtfRPRXLQlFrHlVWXO0yWwSPCpA0kwdVzMvc6twOxfqr8H0nGIC1CY-Q82RzrniLNGabnL9obhATheP1BWW-xxzy5lfjJtUE6~HKcF2PRsiJ9Q__",
+        "title": "Wedding Clothes",
+        "count": "52 items"
+    },
+    {
+        "id": 7,
+        "Img": "https://s3-alpha-sig.figma.com/img/f6ea/c19b/afa89c9e308a73486fb82ca732e9c6d1?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hJgP26s-1TjCPEX6ebkC~e5aeAMahZowvH4pqhZNNjojfL3PdQKjv-~oETed72LwNiUnNTv6ZghDjtN6pshw2eKfOW8M52-ZwUwIOlCHFiaALOGiIS~Dx2CdtnAhIO64KOpW3~7tTl7sgC~xCpoXvqaGQwGZS~RLpou0GUsGFBsKixG68M3fMP74qLkVEpfe47Wy3HRu0aeATbtPYQ4~5NIChmaONP2bF0MfHROsItv3WaTeev8BxKIBdmUkJjbAKC3DsNaBjedGbQk6XCBbCFWWKCnlZ5DDWDO~lTs3h9ZE~1LmG0N5udpnUZiuntEB3soAJZ8XcXjCROTPFo8~Ug__",
+        "title": "Spring Collection",
+        "count": "24 items"
+    },
+    {
+        "id": 8,
+        "Img": "https://s3-alpha-sig.figma.com/img/06f6/8f5b/fd33ad7f41f21be22b4ff61e66eb0adf?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T7hzORLX0jSOFauwQGGlwt229Sek8GTdg~tsfPXjdDwWaHG6NocVhwqN23xNbg5OzcVCZofDk2hmuIS405furFJagGOiJCaWKYOklMHG0TRcWhvy6P1npno3xV7BAueP2gTxSo1sHiiRRdS~V2FD~J8oTg7QW8ay6~gvIGdpz18HxhH~ah7Zzyz4C0VtReUaH32Qwvjz8ecKGNOI8M9oiopoQ5aDeWCFRCKbmCTrCOBFytc5IjYxB-KpM5WyqwlVXZIttLBgb5EppecxYlcSj39H44qbamE7VNtOHrUI5dwoNhhQBX5firDsAj6OIaMG8XRXprCaO0NrxpT4-tEyzQ__",
+        "title": "Casual Clothes",
+        "count": "52 items"
+    },
+    {
+        "id": 9,
+        "Img": "https://s3-alpha-sig.figma.com/img/517d/f919/2ac8516ff3da29ba7c97ce93d15ae4cf?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VWMgYCWUoACeQEUbkOETMtXuvKphn3oizX5osmJmib3XGc~MEjpZp7j1lflHBqpJdJws05CFCOSWJYdequv5qVDQt7n59QaNxEubApbaRC03XOdJtY9T9qIyPoALul1UCHcbDXxI5rRKoljUqizTKTjtVI-z72F6ziA5Q-Syjjr8cm3IrPqnWhxJmnjjLaC15KFFXNjqHHFcr8HFwVOB2~id17jbn3y-ht1mfpBiQjd92xhw1jAAR6ibZ0SSEtUE8z2~NuUWdV7-heBJKj4dyI4MlPr7uaSoOk4pkTIzCiTTCAFa-DZ0kK25wyiea3DQrE-66RCtZK-rDBLgTv5AOw__",
+        "title": "Hats",
+        "count": "26 items"
+    }
+]

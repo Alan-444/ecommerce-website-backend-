@@ -1,263 +1,502 @@
 [
-    {
-      "id": 1,
-      "img": "https://m.media-amazon.com/images/I/612Rl6GKHoL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Men Grey Hoodie",
-      "category": "Hoodies",
-      "stock": 96,
-      "color": "Black",
-      "price": 49.9,
-      "rating": 5.0,
-  
-      "votes": 32
-    },
-    {
-      "id": 2,
-      "img": "https://m.media-amazon.com/images/I/618LNZgzG1L._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Women Red Hoodie",
-      "category": "Hoodies",
-      "stock": 50,
-      "color": "Red",
-      "price": 55.5,
-      "rating": 4.8,
-  
-      "votes": 28
-    },
-    {
-      "id": 3,
-      "img": "https://m.media-amazon.com/images/I/71DNOWgs62L._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Men Blue Hoodie",
-      "category": "Hoodies",
-      "stock": 80,
-      "color": "Blue",
-      "price": 42.0,
-      "rating": 4.5,
-  
-      "votes": 15
-    },
-    {
-      "id": 4,
-      "img": "https://m.media-amazon.com/images/I/61hLb3DSS4L._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Women Black Hoodie",
-      "category": "Hoodies",
-      "stock": 120,
-      "color": "Black",
-      "price": 48.9,
-      "rating": 4.7,
-  
-      "votes": 40
-    },
-    {
-      "id": 5,
-      "img": "https://m.media-amazon.com/images/I/71Mz8SowepL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Men Green Hoodie",
-      "category": "Hoodies",
-      "stock": 75,
-      "color": "Green",
-      "price": 52.3,
-      "rating": 4.6,
-  
-      "votes": 18
-    },
-    {
-      "id": 6,
-      "img": "https://m.media-amazon.com/images/I/61iKv6-unXL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Women Grey Hoodie",
-      "category": "Hoodies",
-      "stock": 90,
-      "color": "Grey",
-      "price": 47.5,
-      "rating": 4.9,
-  
-      "votes": 25
-    },
-    {
-      "id": 7,
-      "img": "https://m.media-amazon.com/images/I/51scvTo94qL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Men White Hoodie",
-      "category": "Hoodies",
-      "stock": 40,
-      "color": "White",
-      "price": 53.2,
-      "rating": 4.2,
-  
-      "votes": 14
-    },
-    {
-      "id": 8,
-      "img": "https://m.media-amazon.com/images/I/71rF787hRkL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Women Blue Hoodie",
-      "category": "Hoodies",
-      "stock": 65,
-      "color": "Blue",
-      "price": 50.0,
-      "rating": 4.3,
-  
-      "votes": 22
-    },
-    {
-      "id": 9,
-      "img": "https://m.media-amazon.com/images/I/71UGfozNOjL._AC_UL480_QL65_.jpg",
-  
-      "name": "Men Yellow Hoodie",
-      "category": "Hoodies",
-      "stock": 55,
-      "color": "Yellow",
-      "price": 45.99,
-      "rating": 4.1,
-  
-      "votes": 19
-    },
-    {
-      "id": 10,
-      "img": "https://m.media-amazon.com/images/I/91E1TbeBeGL._AC_UL480_FMwebp_QL65_.jpg",
-  
-      "name": "Women Purple Hoodie",
-      "category": "Hoodies",
-      "stock": 100,
-      "color": "Purple",
-      "price": 51.8,
-      "rating": 4.9,
-  
-      "votes": 35
-    },
-    {
-      "id": 11,
-      "img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_04._CB637448834_.jpg",
-  
-      "name": "Men Orange Hoodie",
-      "category": "Hoodies",
-      "stock": 70,
-      "color": "Orange",
-      "price": 44.3,
-      "rating": 4.6,
-  
-      "votes": 24
-    },
-    {
-      "id": 12,
-      "img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_05._SY530_QL85_.jpg",
-  
-      "name": "Women Pink Hoodie",
-      "category": "Hoodies",
-      "stock": 85,
-      "color": "Pink",
-      "price": 49.9,
-      "rating": 4.5,
-  
-      "votes": 27
-    },
-    {
-      "id": 13,
-      "img": "https://m.media-amazon.com/images/I/71bfSLiEkpL._AC_UL480_QL65_.jpg",
-  
-      "name": "Men Brown Hoodie",
-      "category": "Hoodies",
-      "stock": 60,
-      "color": "Brown",
-      "price": 47.99,
-      "rating": 4.0,
-  
-      "votes": 20
-    },
-    {
-      "id": 14,
-      "img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_02._SY530_QL85_.jpg",
-  
-      "name": "Women Yellow Hoodie",
-      "category": "Hoodies",
-      "stock": 45,
-      "color": "Yellow",
-      "price": 46.5,
-      "rating": 4.8,
-  
-      "votes": 30
-    },
-    {
-      "id": 15,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/cycle/0/h/e/24t-insane-city-bike-9-14-year-age-semi-assembled-premium-original-imah5yfdfdcaxcfm.jpeg?q=70",
-  
-      "name": "Men Black Hoodie",
-      "category": "Hoodies",
-      "stock": 110,
-      "color": "Black",
-      "price": 50.9,
-      "rating": 5.0,
-  
-      "votes": 40
-    },
-    {
-      "id": 16,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/c/m/m/28-kttladiesjeans2406-kotty-original-imagt3nsbmy47gdm.jpeg?q=70",
-  
-      "name": "Women Green Hoodie",
-      "category": "Hoodies",
-      "stock": 95,
-      "color": "Green",
-      "price": 52.0,
-      "rating": 4.7,
-  
-      "votes": 25
-    },
-    {
-      "id": 17,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/4/n/r/xxl-rf-1062-rimeline-fashion-original-imah4ffbegyryte7.jpeg?q=70",
-  
-      "name": "Men Purple Hoodie",
-      "category": "Hoodies",
-      "stock": 50,
-      "color": "Purple",
-      "price": 51.7,
-      "rating": 4.4,
-  
-      "votes": 15
-    },
-    {
-      "id": 18,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/2/y/0/s-ku767grn-mokshi-original-imagk5myfhduxgfq.jpeg?q=70",
-  
-      "name": "Women Orange Hoodie",
-      "category": "Hoodies",
-      "stock": 60,
-      "color": "Orange",
-      "price": 49.0,
-      "rating": 4.6,
-  
-      "votes": 20
-    },
-    {
-      "id": 19,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/u/4/d/m-psk318-glorious-original-imagj96fu7xvaq3y.jpeg?q=70",
-  
-      "name": "Men Pink Hoodie",
-      "category": "Hoodies",
-      "stock": 80,
-      "color": "Pink",
-      "price": 43.9,
-      "rating": 4.3,
-  
-      "votes": 18
-    },
-    {
-      "id": 20,
-      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/6/z/5/l-gw175-glowworld-original-imah2kfpx497gvkp.jpeg?q=70",
-  
-      "name": "Women White Hoodie",
-      "category": "Hoodies",
-      "stock": 130,
-      "color": "White",
-      "price": 54.5,
-      "rating": 4.8,
-  
-      "votes": 32
-    }
-  ]
-  
+	{
+		"id": 1,
+		"img": "https://m.media-amazon.com/images/I/612Rl6GKHoL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Grey Hoodie",
+		"product_description": "A comfortable grey hoodie perfect for casual wear.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Winter Wear"],
+		"product_price": 49.9,
+		"discount_price": 44.9,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.5 kg",
+		"country": "USA",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Grey Hoodie - Stylish Winter Wear",
+			"description": "Stay warm and stylish with this men’s grey hoodie, made from soft material."
+		},
+		"stock": 96,
+		"color": "Black",
+		"rating": 5.0,
+		"votes": 32
+	},
+	{
+		"id": 2,
+		"img": "https://m.media-amazon.com/images/I/618LNZgzG1L._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Red Hoodie",
+		"product_description": "A vibrant red hoodie for women, perfect for a sporty look.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Sporty Wear"],
+		"product_price": 55.5,
+		"discount_price": 50.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.45 kg",
+		"country": "Canada",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Red Hoodie - Sporty and Comfortable",
+			"description": "Brighten up your wardrobe with this stylish red hoodie for women."
+		},
+		"stock": 50,
+		"color": "Red",
+		"rating": 4.8,
+		"votes": 28
+	},
+	{
+		"id": 3,
+		"img": "https://m.media-amazon.com/images/I/71DNOWgs62L._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Blue Hoodie",
+		"product_description": "A classic blue hoodie that’s both versatile and comfortable.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Casual Wear"],
+		"product_price": 42.0,
+		"discount_price": 39.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.52 kg",
+		"country": "UK",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Blue Hoodie - Comfortable Everyday Wear",
+			"description": "Perfect for everyday use, this blue hoodie offers comfort and style."
+		},
+		"stock": 80,
+		"color": "Blue",
+		"rating": 4.5,
+		"votes": 15
+	},
+	{
+		"id": 4,
+		"img": "https://m.media-amazon.com/images/I/61hLb3DSS4L._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Black Hoodie",
+		"product_description": "A sleek black hoodie for women, suitable for casual outings.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Casual Wear"],
+		"product_price": 48.9,
+		"discount_price": 45.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.48 kg",
+		"country": "Germany",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Black Hoodie - Sleek and Stylish",
+			"description": "Enhance your style with this women’s black hoodie, ideal for various occasions."
+		},
+		"stock": 120,
+		"color": "Black",
+		"rating": 4.7,
+		"votes": 40
+	},
+	{
+		"id": 5,
+		"img": "https://m.media-amazon.com/images/I/71Mz8SowepL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Green Hoodie",
+		"product_description": "A vibrant green hoodie for men, offering a touch of uniqueness.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Unique Style"],
+		"product_price": 52.3,
+		"discount_price": 48.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.53 kg",
+		"country": "Italy",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Green Hoodie - Bold and Unique",
+			"description": "Stand out in this bold green hoodie, crafted for comfort and style."
+		},
+		"stock": 75,
+		"color": "Green",
+		"rating": 4.6,
+		"votes": 18
+	},
+	{
+		"id": 6,
+		"img": "https://m.media-amazon.com/images/I/61iKv6-unXL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Grey Hoodie",
+		"product_description": "A cozy grey hoodie for women, perfect for chilly days.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Cozy Wear"],
+		"product_price": 47.5,
+		"discount_price": 43.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.46 kg",
+		"country": "France",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Grey Hoodie - Warm and Comfortable",
+			"description": "Stay warm in this soft grey hoodie, designed for women’s comfort."
+		},
+		"stock": 90,
+		"color": "Grey",
+		"rating": 4.9,
+		"votes": 25
+	},
+	{
+		"id": 7,
+		"img": "https://m.media-amazon.com/images/I/51scvTo94qL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men White Hoodie",
+		"product_description": "A clean and classic white hoodie, suitable for all seasons.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Classic Wear"],
+		"product_price": 53.2,
+		"discount_price": 49.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.51 kg",
+		"country": "USA",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men White Hoodie - Classic Style",
+			"description": "A versatile white hoodie that pairs well with any outfit."
+		},
+		"stock": 40,
+		"color": "White",
+		"rating": 4.2,
+		"votes": 14
+	},
+	{
+		"id": 8,
+		"img": "https://m.media-amazon.com/images/I/71rF787hRkL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Blue Hoodie",
+		"product_description": "A stylish blue hoodie for women, perfect for casual wear.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Casual Wear"],
+		"product_price": 50.0,
+		"discount_price": 46.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.47 kg",
+		"country": "UK",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Blue Hoodie - Casual and Comfortable",
+			"description": "This blue hoodie offers a stylish look with ultimate comfort."
+		},
+		"stock": 65,
+		"color": "Blue",
+		"rating": 4.3,
+		"votes": 22
+	},
+	{
+		"id": 9,
+		"img": "https://m.media-amazon.com/images/I/71UGfozNOjL._AC_UL480_QL65_.jpg",
+		"product_name": "Men Yellow Hoodie",
+		"product_description": "Bright yellow hoodie that makes a statement.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Bold Wear"],
+		"product_price": 45.99,
+		"discount_price": 42.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.5 kg",
+		"country": "Canada",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Yellow Hoodie - Bright and Bold",
+			"description": "Make a statement with this vibrant yellow hoodie."
+		},
+		"stock": 55,
+		"color": "Yellow",
+		"rating": 4.1,
+		"votes": 19
+	},
+	{
+		"id": 10,
+		"img": "https://m.media-amazon.com/images/I/91E1TbeBeGL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Purple Hoodie",
+		"product_description": "A beautiful purple hoodie that offers warmth and style.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Elegant Wear"],
+		"product_price": 51.8,
+		"discount_price": 48.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.48 kg",
+		"country": "Germany",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Purple Hoodie - Elegant and Warm",
+			"description": "This purple hoodie combines warmth with a touch of elegance."
+		},
+		"stock": 100,
+		"color": "Purple",
+		"rating": 4.9,
+		"votes": 35
+	},
+	{
+		"id": 11,
+		"img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_04._CB637448834_.jpg",
+		"product_name": "Men Orange Hoodie",
+		"product_description": "A bright orange hoodie for those who like to stand out.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Unique Style"],
+		"product_price": 44.3,
+		"discount_price": 41.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.5 kg",
+		"country": "Italy",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Orange Hoodie - Vibrant Style",
+			"description": "A bold choice for those who love bright colors."
+		},
+		"stock": 70,
+		"color": "Orange",
+		"rating": 4.6,
+		"votes": 24
+	},
+	{
+		"id": 12,
+		"img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_05._SY530_QL85_.jpg",
+		"product_name": "Women Pink Hoodie",
+		"product_description": "A soft pink hoodie that’s both stylish and comfortable.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Trendy Wear"],
+		"product_price": 49.9,
+		"discount_price": 46.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.47 kg",
+		"country": "France",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Pink Hoodie - Soft and Trendy",
+			"description": "This pink hoodie is a perfect addition to any casual outfit."
+		},
+		"stock": 85,
+		"color": "Pink",
+		"rating": 4.5,
+		"votes": 27
+	},
+	{
+		"id": 13,
+		"img": "https://m.media-amazon.com/images/I/71bfSLiEkpL._AC_UL480_QL65_.jpg",
+		"product_name": "Men Brown Hoodie",
+		"product_description": "A classic brown hoodie that complements any look.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Classic Wear"],
+		"product_price": 47.99,
+		"discount_price": 44.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.49 kg",
+		"country": "Spain",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Brown Hoodie - Classic and Versatile",
+			"description": "A brown hoodie that fits well with any casual style."
+		},
+		"stock": 60,
+		"color": "Brown",
+		"rating": 4.0,
+		"votes": 20
+	},
+	{
+		"id": 14,
+		"img": "https://m.media-amazon.com/images/G/31/img2021/Sportswear_21/SW_22/May/XCM_flip/Brand_Tiles/Women/brands_02._SY530_QL85_.jpg",
+		"product_name": "Women Yellow Hoodie",
+		"product_description": "A bright and cheerful yellow hoodie for women.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Bold Wear"],
+		"product_price": 46.5,
+		"discount_price": 42.5,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.46 kg",
+		"country": "USA",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Yellow Hoodie - Bright and Cheery",
+			"description": "Add some sunshine to your wardrobe with this yellow hoodie."
+		},
+		"stock": 45,
+		"color": "Yellow",
+		"rating": 4.8,
+		"votes": 30
+	},
+	{
+		"id": 15,
+		"img": "https://rukminim2.flixcart.com/image/612/612/xif0q/cycle/0/h/4/-original-imagmd4bzwt5yjs9.jpeg?q=70",
+		"product_name": "Men Maroon Hoodie",
+		"product_description": "A rich maroon hoodie for a stylish look.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Stylish Wear"],
+		"product_price": 52.0,
+		"discount_price": 48.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.5 kg",
+		"country": "Germany",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Maroon Hoodie - Rich and Stylish",
+			"description": "Enhance your look with this elegant maroon hoodie."
+		},
+		"stock": 65,
+		"color": "Maroon",
+		"rating": 4.7,
+		"votes": 26
+	},
+	{
+		"id": 16,
+		"img": "https://m.media-amazon.com/images/I/81-ZnK7kpDL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Green Hoodie",
+		"product_description": "A fresh green hoodie that’s perfect for any casual outing.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Casual Wear"],
+		"product_price": 49.99,
+		"discount_price": 45.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.52 kg",
+		"country": "USA",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Green Hoodie - Fresh and Stylish",
+			"description": "Stay stylish with this fresh green hoodie."
+		},
+		"stock": 30,
+		"color": "Green",
+		"rating": 4.4,
+		"votes": 18
+	},
+	{
+		"id": 17,
+		"img": "https://m.media-amazon.com/images/I/71zbbITlnPL._AC_UL480_QL65_.jpg",
+		"product_name": "Women Grey Hoodie",
+		"product_description": "A comfortable grey hoodie for everyday wear.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Comfort Wear"],
+		"product_price": 48.5,
+		"discount_price": 44.5,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.49 kg",
+		"country": "Canada",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Grey Hoodie - Comfortable and Chic",
+			"description": "Perfect for layering, this grey hoodie is a must-have."
+		},
+		"stock": 75,
+		"color": "Grey",
+		"rating": 4.6,
+		"votes": 25
+	},
+	{
+		"id": 18,
+		"img": "https://m.media-amazon.com/images/I/61SOc3mgVFL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Black Hoodie",
+		"product_description": "A classic black hoodie that never goes out of style.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Classic Wear"],
+		"product_price": 51.0,
+		"discount_price": 47.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.5 kg",
+		"country": "UK",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Black Hoodie - Classic and Timeless",
+			"description": "A versatile black hoodie for any occasion."
+		},
+		"stock": 85,
+		"color": "Black",
+		"rating": 4.8,
+		"votes": 33
+	},
+	{
+		"id": 19,
+		"img": "https://m.media-amazon.com/images/I/61m0y9cHTcL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Women Coral Hoodie",
+		"product_description": "A trendy coral hoodie that adds a pop of color to your outfit.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Women Clothes", "Trendy Wear"],
+		"product_price": 50.0,
+		"discount_price": 46.5,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.48 kg",
+		"country": "Australia",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Women Coral Hoodie - Trendy and Bright",
+			"description": "Brighten up your wardrobe with this coral hoodie."
+		},
+		"stock": 65,
+		"color": "Coral",
+		"rating": 4.7,
+		"votes": 20
+	},
+	{
+		"id": 20,
+		"img": "https://m.media-amazon.com/images/I/71XlPaJSUdL._AC_UL480_FMwebp_QL65_.jpg",
+		"product_name": "Men Navy Hoodie",
+		"product_description": "A deep navy hoodie that's perfect for layering.",
+		"category": ["Hoodies"],
+		"tags": ["Hoodie", "Men Clothes", "Layering Wear"],
+		"product_price": 52.0,
+		"discount_price": 49.0,
+		"has_multiple_options": true,
+		"options": {
+			"size": ["S", "M", "L", "XL"]
+		},
+		"weight": "0.55 kg",
+		"country": "Italy",
+		"is_digital_item": false,
+		"seo_settings": {
+			"title": "Men Navy Hoodie - Deep and Comfortable",
+			"description": "A stylish navy hoodie ideal for chilly days."
+		},
+		"stock": 40,
+		"color": "Navy",
+		"rating": 4.5,
+		"votes": 29
+	}
+]
