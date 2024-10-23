@@ -49,6 +49,24 @@
 .offsf_filter select:focus {
 	outline: none;
 }
+
+.offs_remove {
+	flex: 1;
+	display: flex;
+	justify-content: end;
+	align-items: center;
+	gap: 15px;
+}
+.offs_remove button,
+.offs_remove a {
+	border: 1px solid #d7dbec;
+	background-color: transparent;
+	padding: 8px;
+	border-radius: 4px;
+	color: #1e5eff;
+	cursor: pointer;
+}
+
 .offsf_search {
 	display: flex;
 	align-items: center;

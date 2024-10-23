@@ -24,6 +24,7 @@ const Customers = () => {
 					icon={false}
 					fillBtn={true}
 					fillTitle={"Add Customer"}
+					fillTitleTo={"/addCustomer"}
 				/>
 				<div className={styles.o_orders_filter}>
 					<div className={styles.oof_wrapper}>

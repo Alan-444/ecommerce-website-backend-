@@ -1,142 +1,227 @@
 [
 	{
+		"id": 1,
 		"name": "Summer discount 10% off",
 		"code": "Summer2020",
 		"usage": 15,
 		"status": "Active",
 		"discount_value": "10%",
 		"duration": {
-			"start_date": "May 5, 2020",
-			"end_date": "May 15, 2020"
+			"start_date": "05-05-2020",
+			"end_date": "15-05-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "All products",
 		"usage_limit": 50
 	},
 	{
+		"id": 2,
 		"name": "Free shipping on all items",
 		"code": "Shipfreetomee15",
 		"usage": 42,
 		"status": "Active",
 		"discount_value": null,
 		"duration": {
-			"start_date": "May 5, 2020",
-			"end_date": "May 15, 2020"
+			"start_date": "05-05-2020",
+			"end_date": "15-05-2020"
 		},
 		"type": "Free Shipping",
 		"applies_to": "All products",
 		"usage_limit": 100
 	},
 	{
+		"id": 3,
 		"name": "Discount for women clothes 5%",
 		"code": "Womenclothing5",
 		"usage": 12,
 		"status": "Active",
 		"discount_value": "5%",
 		"duration": {
-			"start_date": "April 12, 2020",
-			"end_date": "April 20, 2020"
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "Women’s clothing",
 		"usage_limit": 30
 	},
 	{
+		"id": 4,
 		"name": "Summer discount 10% off",
 		"code": "Summer2020",
 		"usage": 8,
 		"status": "Active",
 		"discount_value": "10%",
 		"duration": {
-			"start_date": "April 12, 2020",
-			"end_date": "April 20, 2020"
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "All products",
 		"usage_limit": 50
 	},
 	{
+		"id": 5,
 		"name": "Free shipping on all items",
 		"code": "Shipfreetomee15",
 		"usage": 18,
 		"status": "Active",
 		"discount_value": null,
 		"duration": {
-			"start_date": "April 12, 2020",
-			"end_date": "April 20, 2020"
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
 		},
 		"type": "Free Shipping",
 		"applies_to": "All products",
 		"usage_limit": 100
 	},
 	{
+		"id": 6,
 		"name": "Discount for women clothes 10%",
 		"code": "Womenclothing5",
 		"usage": 5,
 		"status": "Active",
 		"discount_value": "10%",
 		"duration": {
-			"start_date": "Feb 14, 2020",
-			"end_date": "Feb 20, 2020"
+			"start_date": "14-02-2020",
+			"end_date": "20-02-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "Women’s clothing",
 		"usage_limit": 40
 	},
 	{
+		"id": 7,
 		"name": "Summer discount 15% off",
 		"code": "Summer2020",
 		"usage": 16,
 		"status": "Active",
 		"discount_value": "15%",
 		"duration": {
-			"start_date": "Feb 14, 2020",
-			"end_date": "Feb 20, 2020"
+			"start_date": "14-02-2020",
+			"end_date": "20-02-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "All products",
 		"usage_limit": 20
 	},
 	{
+		"id": 8,
 		"name": "Free shipping on all items",
 		"code": "Shipfreetomee15",
 		"usage": 15,
 		"status": "Expired",
 		"discount_value": null,
 		"duration": {
-			"start_date": "Feb 14, 2020",
-			"end_date": "Feb 20, 2020"
+			"start_date": "14-02-2020",
+			"end_date": "20-02-2020"
 		},
 		"type": "Free Shipping",
 		"applies_to": "All products",
 		"usage_limit": 100
 	},
 	{
+		"is": 9,
 		"name": "Discount for women clothes 10%",
 		"code": "Womenclothing5",
 		"usage": 12,
 		"status": "Expired",
 		"discount_value": "10%",
 		"duration": {
-			"start_date": "Feb 14, 2020",
-			"end_date": "Feb 20, 2020"
+			"start_date": "14-02-2020",
+			"end_date": "20-02-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "Women’s clothing",
 		"usage_limit": 40
 	},
 	{
+		"id": 10,
 		"name": "Discount for women clothes 5%",
 		"code": "Womenclothing5",
 		"usage": 14,
 		"status": "Expired",
 		"discount_value": "5%",
 		"duration": {
-			"start_date": "Feb 14, 2020",
-			"end_date": "Feb 20, 2020"
+			"start_date": "14-02-2020",
+			"end_date": "20-02-2020"
 		},
 		"type": "Percentage Discount",
 		"applies_to": "Women’s clothing",
 		"usage_limit": 30
+	},
+	{
+		"id": 11,
+		"name": "Summer discount 10% off",
+		"code": "Summer2020",
+		"usage": 15,
+		"status": "Active",
+		"discount_value": "10%",
+		"duration": {
+			"start_date": "05-05-2020",
+			"end_date": "15-05-2020"
+		},
+		"type": "Percentage Discount",
+		"applies_to": "All products",
+		"usage_limit": 50
+	},
+	{
+		"id": 12,
+		"name": "Free shipping on all items",
+		"code": "Shipfreetomee15",
+		"usage": 42,
+		"status": "Active",
+		"discount_value": null,
+		"duration": {
+			"start_date": "05-05-2020",
+			"end_date": "15-05-2020"
+		},
+		"type": "Free Shipping",
+		"applies_to": "All products",
+		"usage_limit": 100
+	},
+	{
+		"id": 13,
+		"name": "Discount for women clothes 5%",
+		"code": "Womenclothing5",
+		"usage": 12,
+		"status": "Active",
+		"discount_value": "5%",
+		"duration": {
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
+		},
+		"type": "Percentage Discount",
+		"applies_to": "Women’s clothing",
+		"usage_limit": 30
+	},
+	{
+		"id": 14,
+		"name": "Summer discount 10% off",
+		"code": "Summer2020",
+		"usage": 8,
+		"status": "Active",
+		"discount_value": "10%",
+		"duration": {
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
+		},
+		"type": "Percentage Discount",
+		"applies_to": "All products",
+		"usage_limit": 50
+	},
+	{
+		"id": 15,
+		"name": "Free shipping on all items",
+		"code": "Shipfreetomee15",
+		"usage": 18,
+		"status": "Active",
+		"discount_value": null,
+		"duration": {
+			"start_date": "12-04-2020",
+			"end_date": "20-04-2020"
+		},
+		"type": "Free Shipping",
+		"applies_to": "All products",
+		"usage_limit": 100
 	}
 ]

@@ -71,11 +71,9 @@ const option = {
 			type: "bar",
 			barGap: 0.5,
 			color: "#D7DBEC",
-			emphasis: {
-				focus: "series",
-			},
 			data: [320, 332, 301, 334, 390, 344, 222, 239, 173, 375, 473, 452],
 			emphasis: {
+				focus: "series",
 				itemStyle: {
 					barBorderRadius: [50, 50],
 				},
@@ -90,11 +88,9 @@ const option = {
 
 			name: "New customers",
 			type: "bar",
-			emphasis: {
-				focus: "series",
-			},
 			data: [220, 182, 191, 234, 290, 321, 342, 455, 342, 470, 234, 390],
 			emphasis: {
+				focus: "series",
 				itemStyle: {
 					barBorderRadius: [50, 50],
 				},
@@ -349,10 +345,16 @@ const Report = () => {
 						</div>
 						<div className={styles.rcgwd_visits}>
 							<div className={styles.rcgwdv_visits}>
-								<img src={image2} />
+								<img
+									src={image2}
+									alt=""
+								/>
 							</div>
 							<div className={styles.rcgwdv_visits}>
-								<img src={image3} />
+								<img
+									src={image3}
+									alt=""
+								/>
 							</div>
 						</div>
 					</div>
@@ -433,7 +435,10 @@ const Report = () => {
 									<tr>
 										<td className={styles.t_row_img}>
 											<span>
-												<img src={img1} />
+												<img
+													src={img1}
+													alt=""
+												/>
 											</span>
 											Men Grey Hoodie
 										</td>
@@ -443,7 +448,10 @@ const Report = () => {
 									<tr>
 										<td className={styles.t_row_img}>
 											<span>
-												<img src={img2} />
+												<img
+													src={img2}
+													alt=""
+												/>
 											</span>
 											Men Grey Hoodie
 										</td>
@@ -453,7 +461,10 @@ const Report = () => {
 									<tr>
 										<td className={styles.t_row_img}>
 											<span>
-												<img src={img3} />
+												<img
+													src={img3}
+													alt=""
+												/>
 											</span>
 											Men Grey Hoodie
 										</td>
@@ -463,7 +474,10 @@ const Report = () => {
 									<tr>
 										<td className={styles.t_row_img}>
 											<span>
-												<img src={img4} />
+												<img
+													src={img4}
+													alt=""
+												/>
 											</span>
 											Men Grey Hoodie
 										</td>
@@ -473,7 +487,10 @@ const Report = () => {
 									<tr>
 										<td className={styles.t_row_img}>
 											<span>
-												<img src={img1} />
+												<img
+													src={img1}
+													alt=""
+												/>
 											</span>
 											Men Grey Hoodie
 										</td>
@@ -491,4 +508,3 @@ const Report = () => {
 	);
 };
 export default Report;
-     

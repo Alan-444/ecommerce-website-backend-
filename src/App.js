@@ -17,6 +17,8 @@ import Coupons from "./components/coupons";
 import KnowledgeBase from "./components/knowledgeBase";
 import Article from "./components/article";
 import Report from "./components/reports";
+import ProductEdit from "./components/productEdit";
+import AddCustomer from "./components/addCustomer";
 
 function App() {
 	return (
@@ -67,6 +69,10 @@ function App() {
 						element={<Products />}
 					/>
 					<Route
+						path="/productEdit"
+						element={<ProductEdit />}
+					/>
+					<Route
 						path="/categories"
 						element={<Categories />}
 					/>
@@ -77,6 +83,10 @@ function App() {
 					<Route
 						path="/customers"
 						element={<Customers />}
+					/>
+					<Route
+						path="/addCustomer"
+						element={<AddCustomer />}
 					/>
 					<Route
 						path="/customerInfomation"

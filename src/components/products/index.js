@@ -40,9 +40,9 @@ const Products = () => {
 							</div>
 							<div className={styles.offs_remove}>
 								<p>
-									<span>
+									<Link to={"/productEdit"}>
 										<EditIcon />
-									</span>
+									</Link>
 									<span>
 										<RemoveIcon />
 									</span>
@@ -70,7 +70,10 @@ const Products = () => {
 											<td className={styles.od_tr_paid3}>
 												<div className={styles.otp_img}>
 													<input type="checkbox" />
-													<img src={item.img} />
+													<img
+														src={item.img}
+														alt=""
+													/>
 													<h5>
 														<p>{item.name}</p>
 														<span>T-Shirt</span>

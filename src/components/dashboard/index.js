@@ -15,10 +15,10 @@ import img1 from "../../assets/images/product-small-img1.png";
 // import img3 from "../../assets/images/table3.png";
 // import img4 from "../../assets/images/table4.png";
 // import image6 from "../../assets/images/chart4.png";
-import image7 from "../../assets/images/graph1.png";
+// import image7 from "../../assets/images/graph1.png";
 // import OrdersChart from "../ordersChart";
 import ReactECharts from "echarts-for-react";
-import { color } from "echarts";
+// import { color } from "echarts";
 
 const Dashboard = () => {
 	// const option = {
@@ -205,7 +205,10 @@ const Dashboard = () => {
 								<span>22.45%</span>
 							</div>
 							<div className={styles.dsr_image}>
-								<img src={image1} />
+								<img
+									src={image1}
+									alt=""
+								/>
 							</div>
 						</div>
 						<div className={styles.ds_orders}>
@@ -215,7 +218,10 @@ const Dashboard = () => {
 								<span>15.34%</span>
 							</div>
 							<div className={styles.dsr_image}>
-								<img src={image2} />
+								<img
+									src={image2}
+									alt=""
+								/>
 							</div>
 						</div>
 						<div className={styles.ds_unique_visit}>
@@ -225,7 +231,10 @@ const Dashboard = () => {
 								<span>10.24%</span>
 							</div>
 							<div className={styles.dsr_image}>
-								<img src={image3} />
+								<img
+									src={image3}
+									alt=""
+								/>
 							</div>
 						</div>
 						<div className={styles.ds_newUsers}>
@@ -235,7 +244,10 @@ const Dashboard = () => {
 								<span>15.34%</span>
 							</div>
 							<div className={styles.dsr_image}>
-								<img src={image4} />
+								<img
+									src={image4}
+									alt=""
+								/>
 							</div>
 						</div>
 						<div className={styles.ds_existingUsers}>
@@ -245,7 +257,10 @@ const Dashboard = () => {
 								<span>22.45%</span>
 							</div>
 							<div className={styles.dsr_image}>
-								<img src={image5} />
+								<img
+									src={image5}
+									alt=""
+								/>
 							</div>
 						</div>
 					</div>

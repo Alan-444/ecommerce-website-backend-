@@ -3,40 +3,40 @@ import styles from "./style.module.css";
 import MainDashboardHeading from "../mainDashboardHeding";
 
 const CustomerInformation = () => {
-	const customer = {
-		name: "Randhir Kumar",
-		country: "India",
-		ordersCount: 5,
-		customerSince: "2 years",
-	};
+	// const customer = {
+	// 	name: "Randhir Kumar",
+	// 	country: "India",
+	// 	ordersCount: 5,
+	// 	customerSince: "2 years",
+	// };
 
-	const orders = [
-		{ id: "#23534D", date: "May 25, 3:12 PM", status: "Pending", price: 29.74 },
-		{
-			id: "#12512B",
-			date: "May 10, 2:00 PM",
-			status: "Completed",
-			price: 23.06,
-		},
-		{
-			id: "#23534D",
-			date: "April 18, 8:00 AM",
-			status: "Completed",
-			price: 29.74,
-		},
-		{
-			id: "#76543E",
-			date: "April 12, 8:00 AM",
-			status: "Completed",
-			price: 23.06,
-		},
-		{
-			id: "#51323C",
-			date: "March 25, 8:00 AM",
-			status: "Completed",
-			price: 29.74,
-		},
-	];
+	// const orders = [
+	// 	{ id: "#23534D", date: "May 25, 3:12 PM", status: "Pending", price: 29.74 },
+	// 	{
+	// 		id: "#12512B",
+	// 		date: "May 10, 2:00 PM",
+	// 		status: "Completed",
+	// 		price: 23.06,
+	// 	},
+	// 	{
+	// 		id: "#23534D",
+	// 		date: "April 18, 8:00 AM",
+	// 		status: "Completed",
+	// 		price: 29.74,
+	// 	},
+	// 	{
+	// 		id: "#76543E",
+	// 		date: "April 12, 8:00 AM",
+	// 		status: "Completed",
+	// 		price: 23.06,
+	// 	},
+	// 	{
+	// 		id: "#51323C",
+	// 		date: "March 25, 8:00 AM",
+	// 		status: "Completed",
+	// 		price: 29.74,
+	// 	},
+	// ];
 
 	return (
 		<Fragment>

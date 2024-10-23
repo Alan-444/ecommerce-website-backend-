@@ -11,6 +11,8 @@ const MainDashboardHeading = ({
 	outlineBtn,
 	fillBtn,
 	fillTitle,
+	fillTitleTo,
+	title1To,
 }) => {
 	return (
 		<>
@@ -18,7 +20,7 @@ const MainDashboardHeading = ({
 				<h4>{title}</h4>
 				{outlineBtn && (
 					<div className={styles.dwmt_manag}>
-						<Link>
+						<Link to={title1To}>
 							{icon ? (
 								<span>
 									<GlobalSettingIcon />
@@ -33,7 +35,7 @@ const MainDashboardHeading = ({
 				)}
 				{fillBtn && (
 					<div className={styles.dwmt_manag2}>
-						<Link>
+						<Link to={fillTitleTo}>
 							{icon2 ? (
 								<span>
 									<PlusIcon />
